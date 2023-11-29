@@ -1,0 +1,86 @@
+{
+    "Deck of Wonders":{
+        "Two of Spades":{
+            "name":":two::spades: Two of Spades",
+            "Deck v1.2.2 changelog":".",
+            "1":"Fixed yet another decklib porting error"
+        },
+        "Jack of Spades":{
+            "name":":regional_indicator_j::spades: Jack of Spades"
+        },
+        "Queen of Spades":{
+            "name":":regional_indicator_q::spades: Queen of Spades"
+        },
+        "King of Spades":{
+            "name":":regional_indicator_k::spades: King of Spades"
+        },
+        "Ace of Spades":{
+            "name":":regional_indicator_a::spades: Ace of Spades"
+        },
+        "Two of Hearts":{
+            "name":":two::hearts: Two of Hearts"
+        },
+        "Jack of Hearts":{
+            "name":":regional_indicator_j::hearts: Jack of Hearts"
+        },
+        "Queen of Hearts":{
+            "name":":regional_indicator_q::hearts: Queen of Hearts"
+        },
+        "King of Hearts":{
+            "name":":regional_indicator_k::hearts: King of Hearts"
+        },
+        "Ace of Hearts":{
+            "name":":regional_indicator_a::hearts: Ace of Hearts"
+        },
+        "Two of Clubs":{
+            "name":":two::clubs: Two of Clubs"
+        },
+        "Jack of Clubs":{
+            "name":":regional_indicator_j::clubs: Jack of Clubs"
+        },
+        "Queen of Clubs":{
+            "name":":regional_indicator_q::clubs: Queen of Clubs"
+        },
+        "King of Clubs":{
+            "name":":regional_indicator_k::clubs: King of Clubs"
+        },
+        "Ace of Clubs":{
+            "name":":regional_indicator_a::clubs: Ace of Clubs"
+        },
+        "Two of Diamonds":{
+            "name":":two::diamonds: Two of Diamonds"
+        },
+        "Jack of Diamonds":{
+            "name":":regional_indicator_j::diamonds: Jack of Diamonds"
+        },
+        "Queen of Diamonds":{
+            "name":":regional_indicator_q::diamonds: Queen of Diamonds"
+        },
+        "King of Diamonds":{
+            "name":":regional_indicator_k::diamonds: King of Diamonds"
+        },
+        "Ace of Diamonds":{
+            "name":":regional_indicator_a::diamonds: Ace of Diamonds"
+        },
+        "Joker ™":{
+            "name":":red_circle: Joker ™"
+        },
+        "Joker":{
+            "name":":black_circle: Joker"
+        }
+    },
+    "TemplateCustomDeck":{
+        "Card ID Here":{
+            "name":"Card Name Here"
+        },
+        "ID 2 Here":{
+            "name":"Add as many cards as you want"
+        },
+        "No Identical IDs":{
+            "name":"Save custom decks in a gvar like this one!",
+            "magic data":["Magic cards coming soon with !deck play card!",
+                "Cards that do damage! Cards that heal! Cards galore!"
+            ]
+        }
+    }
+}
